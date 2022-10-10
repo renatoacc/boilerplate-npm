@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Renato Costa",
 	"description":"This projecto from freeCodeCamp, how to manage Node.js file from npm and JSON file",
+	"keywords": ["freecodecamp","frist","project"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
