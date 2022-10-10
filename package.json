@@ -3,6 +3,7 @@
 	"author": "Renato Costa",
 	"description":"This projecto from freeCodeCamp, how to manage Node.js file from npm and JSON file",
 	"keywords": ["freecodecamp","frist","project"],
+	"version":"1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
